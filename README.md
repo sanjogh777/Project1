@@ -1,5 +1,6 @@
 # Loan Defaulters Predictions:
  **Please read the Project Proposal PDF**
+ Main Dataset -> 'loan.csv' - https://drive.google.com/open?id=1pREEl9F6bvpZtRzEbZqVXQliWSrssXKa.
  
 ## How to view the repository:
 1. First go to the Data Visualization folder. Some preliminary Exploratory Data Analysis has been done there to make sense out of the data. The semi-cleaned up file has been saved as 'new_loan.csv' and is used in the Data Wrangling notebook. 'new_loan.csv'- https://drive.google.com/open?id=1cpy80IIoSXsxbMMVHfLgkclpx6woroo1. 
